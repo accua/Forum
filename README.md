@@ -1,7 +1,11 @@
-# forum
+# Forum
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is the code review for the end of week 2 JavaScript with Ember.
+
+## User Stories
+
+* _As a user I want to be able to submit, update, and delete a question_
+* _As a user I want to be able to submit an answer to a question_
 
 ## Prerequisites
 
@@ -15,33 +19,15 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone <https://github.com/accua/Forum>` this repository
 * `cd forum`
 * `npm install`
 * `bower install`
 
-## Running / Development
+## Deployment
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
