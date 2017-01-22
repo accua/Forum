@@ -1,0 +1,24 @@
+{ "questions": [{
+    "title": "What's the best candle smell?",
+    "author": "Emily Sky",
+    "notes": "Your answer should be objective. There is only one true best candle smell."
+  }, {
+    "title": "What's the best way to describe two word new year's resolutions?",
+    "author": "Andrew",
+    "notes": "Hint: with more than 2 words."
+  }, {
+    "title": "What are the best hot springs near Portland?",
+    "author": "John Jordan-Gail",
+    "notes": "Not Bagby, everyone knows Bagby."
+  }],
+  "answers": [{
+    "author": "Andrew",
+    "content": "Vanilla-pear"
+  }, {
+    "author": "Jim",
+    "content": "Just body positive"
+  }, {
+    "author": "Bob",
+    "content": "Somewhere on the clackamas, maybe Breitenbush?"
+  }]
+}
