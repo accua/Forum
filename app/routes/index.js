@@ -23,7 +23,6 @@ export default Ember.Route.extend({
           updateQuestion.set(key, params[key]);
         }
       });
-      debugger;
       updateQuestion.save();
       this.transitionTo('index');
     }
