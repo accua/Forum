@@ -1,7 +1,7 @@
 <h1>{{question.title}} by {{question.author}}</h1>
 <p>{{question.notes}}</p>
-
-<h2> Answers </h2>
+<hr>
+<h3>Answers</h3>
 <ul>
   {{#each question.answers as |answer|}}
     {{answer-tile answer=answer}}
